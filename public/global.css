@@ -1,0 +1,11 @@
+.main-file{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: rgb(77, 114, 116);
+	color: white;
+	border-radius: 35px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
